@@ -2,5 +2,5 @@
 
 bug corrected
 
-v 0.1
+v 0.2
 
